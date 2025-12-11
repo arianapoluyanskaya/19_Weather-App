@@ -1,4 +1,5 @@
 
+const API_KEY = "4a1301ecd33e18ea287f29aa5188295f";
 const cityValueInput = document.getElementById("cityValueInput");
 const weatherBtn = document.getElementById("weatherBtn");
 const weatherInfo = document.getElementById("weatherInfo");
